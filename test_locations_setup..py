@@ -1,5 +1,5 @@
-import chr_init_param
-import unittest
+import locations_setup
+import unittest2
 
 if __name__ == "__main__":
     unittest.main()
