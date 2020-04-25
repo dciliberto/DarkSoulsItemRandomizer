@@ -1,6 +1,5 @@
 import dcx_handler
 import unittest
-
 class appears_dcx_unit_tests(unittest.TestCase):
     def setUp(self):
         self.appears_dcx_instance = dcx_handler.appears_dcx
