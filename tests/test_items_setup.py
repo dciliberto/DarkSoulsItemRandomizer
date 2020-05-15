@@ -9,9 +9,9 @@ class item_lot_part_unit_tests(unittest.TestCase):
     def tearDown(self):
         return super().tearDown()
     
-class flag_error(item_lot_part_unit_tests):
-    def runTest(self):
-        assert self.
+# class flag_error(item_lot_part_unit_tests):
+#     def runTest(self):
+#         assert self.
 
 
 # Boss weapon list helper unit tests
