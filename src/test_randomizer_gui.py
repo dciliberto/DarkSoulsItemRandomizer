@@ -1,5 +1,5 @@
-import locations_setup
-import unittest2
+import randomizer_gui
+import unittest
 
 if __name__ == "__main__":
     unittest.main()
